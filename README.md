@@ -35,21 +35,23 @@ Az alábbi lépésekkel telepítheted a **Galaxy Fighters**-t a saját gépedre:
    git clone https://github.com/Fonyi03/mosze_2024_Galaxy_Fighters.git
 2. Nyisd meg a projektet Unity-ben:
 
-Indítsd el a Unity Hub-ot.
-Kattints a "Open" gombra, és navigálj a klónozott repó helyére.
-Válaszd ki a projekt mappáját, amely tartalmazza az Assets mappát, majd nyisd meg.
-Szükséges függőségek és beállítások:
+   Indítsd el a Unity Hub-ot.
+   Kattints a "Open" gombra, és navigálj a klónozott repó helyére.
+   Válaszd ki a projekt mappáját, amely tartalmazza az Assets mappát, majd nyisd meg.
+   Szükséges függőségek és beállítások:
 
-Győződj meg róla, hogy a Unity verziód 2022.3 vagy újabb.
-A projekt megnyitásakor Unity automatikusan importálja a szükséges fájlokat és beállításokat.
-Ha valamilyen plugin vagy eszköz hiányzik, Unity felajánlja a telepítést. Kövesd az utasításokat, ha szükséges.
-A játék futtatása:
+   Győződj meg róla, hogy a Unity verziód 2022.3 vagy újabb.
+   A projekt megnyitásakor Unity automatikusan importálja a szükséges fájlokat és beállításokat.
+   Ha valamilyen plugin vagy eszköz hiányzik, Unity felajánlja a telepítést. Kövesd az utasításokat, ha szükséges.
 
-A Unity Editorban navigálj az "Assets/Scenes" mappába, és nyisd meg a MainScene-t.
-Kattints a "Play" gombra a Unity Editor felső részén, hogy elindítsd a játékot és teszteld a működését.
-Build készítése:
+3. A játék futtatása:
 
-A játék elkészítéséhez menj a "File" -> "Build Settings" menüpontra.
-Válaszd ki a kívánt platformot (Windows, Linux stb.), majd kattints a "Build" gombra.
-Válaszd ki a build mappáját, és várj, amíg Unity elkészíti a futtatható fájlt.
-Ha a build elkészült, a játék futtatható lesz az általad kiválasztott platformon!
+   A Unity Editorban navigálj az "Assets/Scenes" mappába, és nyisd meg a MainScene-t.
+   Kattints a "Play" gombra a Unity Editor felső részén, hogy elindítsd a játékot és teszteld a működését.
+   
+4. Build készítése:
+
+   A játék elkészítéséhez menj a "File" -> "Build Settings" menüpontra.
+   Válaszd ki a kívánt platformot (Windows, Linux stb.), majd kattints a "Build" gombra.
+   Válaszd ki a build mappáját, és várj, amíg Unity elkészíti a futtatható fájlt.
+   Ha a build elkészült, a játék futtatható lesz az általad kiválasztott platformon!
