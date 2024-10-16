@@ -1,35 +1,35 @@
-# 🚀 Star Invaders: Galactic Defense 🛸
+# 🚀 Galaxy Fighters: Űrháború 🛸
 
 ![Unity](https://img.shields.io/badge/Unity-2022.3-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20x64-important.svg)
-![License](https://img.shields.io/github/license/yourusername/star-invaders)
-![Repo Size](https://img.shields.io/github/repo-size/yourusername/star-invaders)
+![License](https://img.shields.io/github/license/Fonyi03/mosze_2024_Galaxy_Fighters)
+![Repo Size](https://img.shields.io/github/repo-size/Fonyi03/mosze_2024_Galaxy_Fighters)
 
-> **Welcome to Star Invaders**, an epic space shooter game where you defend your galaxy from waves of invading aliens! Control your ship, dodge obstacles, and defeat bosses in this exciting 2D open-world shooter.
+> **Galaxy Fighters** egy izgalmas űrharcos játék, ahol az idegen inváziók elleni küzdelemben kell megvédened a galaxisodat! Irányítsd az űrhajódat, kerüld el az akadályokat, és győzd le a főellenségeket ebben a lenyűgöző, nyílt világú 2D lövöldözős játékban.
 
-## 🌌 Game Overview
+## 🌌 Játék Áttekintés
 
-In **Star Invaders**, you pilot a spaceship across an open galactic map. Your mission? Eliminate the invading alien forces while avoiding obstacles and engaging in intense battles with powerful bosses. Choose from a range of projectiles, manage your ship's health, and survive through multiple difficulty levels!
+A **Galaxy Fighters** során egy űrhajót irányítasz egy nyílt galaktikus térképen. A célod, hogy elpusztítsd az inváziós idegen erőket, miközben kerülgeted az akadályokat és szembeszállsz az erős főellenségekkel. Többféle lövedék közül választhatsz, figyelned kell az űrhajó életerejét, és túlélned a különböző nehézségi szinteket!
 
-### 🎮 Key Features
+### 🎮 Főbb Funkciók
 
-- **Open-World Map**: Navigate a free-roaming space environment.
-- **Multiple Projectile Types**: Choose from various weapons, including special attacks!
-- **Diverse Enemies**: Face off against different enemy types, including challenging bosses.
-- **Damage System**: Visual damage effects as your ship takes hits.
-- **Dynamic Difficulty**: Play on multiple difficulty levels, each offering a unique challenge.
-- **HUD Interface**: Keep track of your health, ammo, and more through a clear and user-friendly HUD.
+- **Nyílt Térkép**: Szabadon navigálhatsz az űrben.
+- **Több Lövedéktípus**: Válassz különböző fegyverek közül, beleértve speciális támadásokat is!
+- **Különféle Ellenségek**: Különböző típusú ellenfelekkel találkozol, beleértve a kemény főellenségeket is.
+- **Sebződés és Életerő**: Látványos sebződési effektek, életerő csökkenéssel.
+- **Dinamikus Nehézség**: Több nehézségi szint, mindegyik egyedi kihívásokkal.
+- **HUD Felület**: Figyeld az életerőt, lőszert és egyéb statisztikákat egy könnyen áttekinthető HUD-on.
 
-## 🕹️ Controls
+## 🕹️ Irányítás
 
-- **Move**: Use `WASD` or the arrow keys to move your spaceship.
-- **Shoot**: Press `Space` to fire your current weapon.
-- **Switch Weapon**: Press `Q` to toggle between different projectile types.
+- **Mozgás**: A nyilakkal irányíthatod az űrhajódat.
+- **Tűz**: Nyomd meg a `Space` gombot a lövéshez.
+- **Fegyverváltás**: Nyomd meg a `Q` gombot a lövedék típusának váltásához.
 
-## 🛠️ Installation
+## 🛠️ Telepítés
 
-Follow these steps to get **Star Invaders** up and running on your local machine:
+Az alábbi lépésekkel telepítheted a **Galaxy Fighters**-t a saját gépedre:
 
-1. Clone this repository:
+1. Klónozd a repót:
    ```bash
-   git clone https://github.com/yourusername/star-invaders.git
+   git clone https://github.com/Fonyi03/mosze_2024_Galaxy_Fighters.git
